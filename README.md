@@ -16,9 +16,10 @@ Capstone Project Studi Independen Orbit Future Academy
   Seperti yang telah diuraikan diatas, program ini dibuat untuk melawan deepfake menggunakan Machine Learning.
   
   
-Link Dataset  : https://www.kaggle.com/c/deepfake-detection-challenge/data
-  
-  
+Link Dataset  : 
+- https://www.kaggle.com/c/deepfake-detection-challenge/data
+
+
 Referensi     : 
 - https://paperswithcode.com/task/deepfake-detection
 - https://www.kaggle.com/phunghieu/deepfake-detection-data-preparation-baseline/notebook
