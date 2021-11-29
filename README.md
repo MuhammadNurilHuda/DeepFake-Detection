@@ -23,3 +23,6 @@ Link Dataset  :
 Referensi     : 
 - https://paperswithcode.com/task/deepfake-detection
 - https://www.kaggle.com/phunghieu/deepfake-detection-data-preparation-baseline/notebook
+- https://pythonrepo.com/tag/deepfake-detection-challenge
+- https://www.youtube.com/watch?v=kYeLBZMTLjk
+- https://www.youtube.com/watch?v=fy8t2C-h-xc
