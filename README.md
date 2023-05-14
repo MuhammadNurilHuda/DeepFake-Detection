@@ -28,4 +28,5 @@ Referensi     :
 - https://www.youtube.com/watch?v=_q16aJTXVRE&t=4s
 
 **UPDATE**
+
 Deployment Repo : https://github.com/MuhammadNurilHuda/Deepfake-deploy
