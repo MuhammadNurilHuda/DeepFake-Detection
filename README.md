@@ -26,3 +26,6 @@ Referensi     :
 - https://pythonrepo.com/tag/deepfake-detection-challenge
 - https://www.youtube.com/watch?v=kYeLBZMTLjk
 - https://www.youtube.com/watch?v=_q16aJTXVRE&t=4s
+
+**UPDATE**
+Deployment Repo : https://github.com/MuhammadNurilHuda/Deepfake-deploy
